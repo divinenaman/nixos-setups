@@ -12,7 +12,7 @@
 
 # Progress
  - [x] The VM boots using all default UMT configs
- - [  ] Installation
+ - [] Installation
 
 # Issues
- - [  ] `wpa_supplicant` failed to start (unable to install)
+ - [] `wpa_supplicant` failed to start (unable to install)
